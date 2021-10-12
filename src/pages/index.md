@@ -1,22 +1,22 @@
 ---
 title: Home
 sections:
-  - title: Women in Science and Computing
-    subtitle: University of Toronto Mississauga
-    # content: >-
-    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-    #   ligula, cursus id molestie vel.
+  - title: This Is A Big Hero Headline
+    subtitle: Optional hero section subtitle
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel.
     actions:
-      # - label: Join us
-      #   url: /pricing
-      #   style: primary
-      #   type: action
-      - label: About us
-        url: /about
+      - label: Try Free
+        url: /pricing
+        style: primary
+        type: action
+      - label: Learn More
+        url: /features
         style: secondary
         type: action
     image: >-
-      https://images.ctfassets.net/2582oijtbxyu/5rBUCTf05I3e5ps5DKhiZl/d12cc74fba8a98780a6da3fc9b2dacb3/hero.png
+      https://images.ctfassets.net/2582oijtbxyu/5rBUCTf05I3e5ps5DKhiZl/9cce33746ed275bdd5c54cee085f9119/Untitled_design.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
