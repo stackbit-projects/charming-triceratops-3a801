@@ -1,28 +1,16 @@
 {
-    "title": "Stackbit DIY Theme",
+    "title": "WiSC UTM",
     "layout_type": "boxed",
     "style": "classic",
     "palette": "green",
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "DIY",
-        "logo": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/40398fec1e1e20776d173bc40d8ed995/WiSC_-_Transparent_Logo.png",
+        "title": "WiSC_Header",
+        "logo": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/f139e5062831b0de0259457c20cd7cfe/Screen_Shot_2021-10-14_at_4.19.47_PM.png",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
         "primary_nav_links": [
-            {
-                "label": "Features",
-                "url": "/features",
-                "style": "link",
-                "type": "action"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link",
-                "type": "action"
-            },
             {
                 "label": "About",
                 "url": "/about",
@@ -30,14 +18,20 @@
                 "type": "action"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Our Team",
+                "url": "/our-team",
                 "style": "link",
                 "type": "action"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Events",
+                "url": "/events",
+                "style": "link",
+                "type": "action"
+            },
+            {
+                "label": "Resources",
+                "url": "/resources",
                 "style": "link",
                 "type": "action"
             }
@@ -45,20 +39,47 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
-                "url": "/contact",
+                "label": "LinkedIn_iconBTN",
+                "url": "https://www.linkedin.com/company/women-in-science-computing/",
                 "style": "link",
+                "has_icon": true,
+                "icon": "linkedin",
+                "icon_position": "center",
+                "new_window": true,
+                "no_follow": false,
                 "type": "action"
             },
             {
-                "label": "Get Started",
+                "label": "Instagram_iconBTN",
+                "url": "https://www.instagram.com/wiscutm/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Facebook_iconBTN",
+                "url": "https://www.facebook.com/wiscutm",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "center",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Become a Member",
                 "url": "/pricing",
                 "style": "primary",
                 "type": "action"
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "Are you already a WiSC member? **[Learn More](/about/)**",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
@@ -66,10 +87,10 @@
         "type": "header"
     },
     "footer": {
-        "logo": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/40398fec1e1e20776d173bc40d8ed995/WiSC_-_Transparent_Logo.png",
-        "logo_alt": "DIY logo",
+        "logo": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/f139e5062831b0de0259457c20cd7cfe/Screen_Shot_2021-10-14_at_4.19.47_PM.png",
+        "logo_alt": "WiSC Logo",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "WiSC",
         "primary_nav_links": [
             {
                 "label": "About",
@@ -78,76 +99,79 @@
                 "type": "action"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Our Team",
+                "url": "/our-team",
                 "style": "link",
                 "type": "action"
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Blog",
+        "secondary_nav_title": "Events",
         "secondary_nav_links": [
             {
-                "label": "News",
-                "url": "/blog/category/news",
+                "label": "Upcoming Events",
+                "url": "/events/upcoming-events",
                 "style": "link",
+                "new_window": false,
                 "type": "action"
             },
             {
-                "label": "General",
-                "url": "/blog/category/general",
-                "style": "link",
-                "type": "action"
-            },
-            {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
+                "label": "Past Events",
+                "url": "/events/past-events",
                 "style": "link",
                 "type": "action"
             }
         ],
         "has_tertiary_nav": true,
-        "tertiary_nav_title": "Legal",
+        "tertiary_nav_title": "Resources",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
+                "label": "Safety Links",
+                "url": "/resources/safety_links",
                 "style": "link",
                 "type": "action"
             },
             {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "label": "Computer Science",
+                "url": "/resources/computer_science",
                 "style": "link",
+                "type": "action"
+            },
+            {
+                "label": "Sciences",
+                "url": "/resources/sciences",
+                "style": "link",
+                "has_icon": false,
+                "new_window": false,
+                "type": "action"
+            },
+            {
+                "label": "FAQ",
+                "url": "/resources/faq",
+                "style": "link",
+                "has_icon": false,
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
                 "type": "action"
             }
         ],
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/wiscutm/",
+                "style": "primary",
                 "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true,
-                "type": "action"
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
+                "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true,
                 "type": "action"
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
+                "url": "https://www.linkedin.com/company/women-in-science-computing/",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "linkedin",
                 "icon_position": "center",
@@ -155,27 +179,41 @@
                 "type": "action"
             },
             {
-                "label": "YouTube",
-                "url": "https://www.youtube.com/",
-                "style": "link",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/wiscutm",
+                "style": "primary",
                 "has_icon": true,
-                "icon": "youtube",
+                "icon": "facebook",
+                "icon_position": "center",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/wiscutm",
+                "style": "primary",
+                "has_icon": true,
+                "icon": "github",
                 "icon_position": "center",
                 "new_window": true,
                 "type": "action"
             },
             {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/channel/UCi-kMHU112eBEre9NviOTwg",
+                "style": "primary",
                 "has_icon": true,
-                "icon": "vimeo",
+                "icon": "youtube",
                 "icon_position": "center",
                 "new_window": true,
+                "no_follow": false,
                 "type": "action"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; WiSC. 2021. All rights reserved.",
         "type": "footer"
-    }
+    },
+    "domain": "https://charming-triceratops-3a801.netlify.app",
+    "favicon": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/f139e5062831b0de0259457c20cd7cfe/Screen_Shot_2021-10-14_at_4.19.47_PM.png"
 }

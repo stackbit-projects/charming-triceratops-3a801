@@ -8,18 +8,10 @@ sections:
     padding_bottom: medium
     background_color: none
     type: hero_section
-  - content: >-
-      ### Billing
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-
-      ### Privacy
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+  - title: 'send us email '
+    content: |-
+      ### Send us an email
+      If you have any questions, would like to learn more about us 
     content_align: left
     form_position: right
     form_width: fifty
@@ -46,7 +38,10 @@ sections:
         default_value: Please select
         options:
           - Error on the site
+          - Event Inquiry
+          - Student Inquiry
           - Sponsorship
+          - Collaboration
           - Other
         type: form_field
       - input_type: textarea
