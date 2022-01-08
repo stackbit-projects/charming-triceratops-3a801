@@ -5,8 +5,8 @@ subtitle: >-
   senectus.
 date: '2020-06-02'
 categories:
-  - id: previous-events
-    link: events/category/previous-events
+  - id: past-events
+    link: past-events
     title: Past Events
     type: category
 excerpt: >-

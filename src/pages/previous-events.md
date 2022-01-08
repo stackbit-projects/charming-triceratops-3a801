@@ -1,7 +1,7 @@
 ---
-title: Past Events
+title: Previous Events
 sections:
-  - title: Past Events
+  - title: Previous Events
     subtitle: Stay on the lookout for our social media for future events
     actions:
       - label: LinkedIn
@@ -37,10 +37,10 @@ sections:
   - blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    recent_count: 13
+    recent_count: 30
     category:
-      id: past-events
-      link: past-events
+      id: previous-events
+      link: events/category/previous-events
       title: Past Events
       type: category
     show_date: true
@@ -79,7 +79,7 @@ sections:
     background_color: secondary
     type: form_section
 seo:
-  title: Past Events
+  title: Previous Events
   description: The collection of previous WiSC events
   extra:
     - name: 'og:type'
@@ -114,5 +114,5 @@ seo:
       type: stackbit_page_meta_extra
   type: stackbit_page_meta
 template: advanced
-stackbit_url_path: events/past-events
+stackbit_url_path: /previous-events
 ---

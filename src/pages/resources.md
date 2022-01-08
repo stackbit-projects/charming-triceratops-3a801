@@ -55,10 +55,12 @@ sections:
             type: action
         actions_align: right
         actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/5u1VYlX6YFGoda5PIFK1Ef/cd7ed07ad88151087f8fd36407924960/security-g587fb009c_1920.jpg
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
         type: grid_item
       - title: Computer Science
         title_align: left
@@ -75,10 +77,12 @@ sections:
             type: action
         actions_align: right
         actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/2FSr8FlgveiKWYRSkIFg61/efd0d188b2e2a7b7a8146826173e03b1/network-g871db9d41_1280.jpg
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
         type: grid_item
       - title: Sciences
         title_align: left
@@ -95,10 +99,12 @@ sections:
             type: action
         actions_align: right
         actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/110jZrAL10RRhp4dmmkR6g/234d14b3ef3b6e329b4294fdf15fed73/dna-g89eff703d_1920.jpg
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
         type: grid_item
       - title: FAQ
         title_align: left
@@ -115,10 +121,12 @@ sections:
             type: action
         actions_align: right
         actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/52vuqz0WAEEmjDBBLpD6V7/e73fe838e84e5346339de7fdcb3eb79b/question-mark-g965473c14_1920.jpg
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
         type: grid_item
     grid_cols: four
     grid_gap_vert: small

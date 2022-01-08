@@ -25,7 +25,7 @@
             },
             {
                 "label": "Events",
-                "url": "/events",
+                "url": "/events-initiatives",
                 "style": "link",
                 "type": "action"
             },
@@ -73,7 +73,7 @@
             },
             {
                 "label": "Become a Member",
-                "url": "/pricing",
+                "url": "http://eepurl.com/gIw5QH ",
                 "style": "primary",
                 "type": "action"
             }
@@ -110,14 +110,14 @@
         "secondary_nav_links": [
             {
                 "label": "Upcoming Events",
-                "url": "/events/upcoming-events",
+                "url": "events-initiatives/upcoming",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
             },
             {
                 "label": "Past Events",
-                "url": "/events/past-events",
+                "url": "events-initiatives/past",
                 "style": "link",
                 "type": "action"
             }

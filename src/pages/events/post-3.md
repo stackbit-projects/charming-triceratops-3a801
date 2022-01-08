@@ -1,13 +1,13 @@
 ---
-title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: It's upcoming
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
 date: '2020-05-28'
 categories:
-  - id: upcoming-events
-    link: events/upcoming-events
-    title: Upcoming Events
+  - id: general
+    link: blog/category/general
+    title: General
     type: category
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia

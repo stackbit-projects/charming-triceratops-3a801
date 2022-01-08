@@ -37,9 +37,10 @@ sections:
   - blog_feed_cols: three
     enable_cards: true
     show_recent: false
+    recent_count: 13
     category:
       id: previous-events
-      link: events/category/previous-events
+      link: events/previous-events
       title: Past Events
       type: category
     show_date: true
@@ -113,5 +114,5 @@ seo:
       type: stackbit_page_meta_extra
   type: stackbit_page_meta
 template: advanced
-stackbit_url_path: /events/previous-events
+stackbit_url_path: events/previous-events
 ---

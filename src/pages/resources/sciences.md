@@ -13,10 +13,22 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - grid_items:
-      - title: Another Resource 1
+  - title: Opportunities
+    grid_items:
+      - title: St. Michael’s Research Summer Student Program
+        subtitle: Hands-on training opportunities for undergraduate students
         title_align: left
         content_align: left
+        actions:
+          - label: view
+            url: >-
+              http://stmichaelshospitalresearch.ca/future-students-trainees/undergraduate-students/
+            style: primary
+            has_icon: false
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         image_position: top
@@ -27,7 +39,7 @@ sections:
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
-    enable_cards: false
+    enable_cards: true
     align: center
     padding_top: medium
     padding_bottom: medium

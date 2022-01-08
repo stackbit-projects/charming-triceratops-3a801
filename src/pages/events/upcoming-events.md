@@ -113,5 +113,5 @@ seo:
       type: stackbit_page_meta_extra
   type: stackbit_page_meta
 template: advanced
-stackbit_url_path: /events/upcoming-events
+stackbit_url_path: events/upcoming-events
 ---

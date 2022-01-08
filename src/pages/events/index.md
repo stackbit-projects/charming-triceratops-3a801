@@ -1,5 +1,5 @@
 ---
-title: WiSC Events
+title: Wisc Events
 sections:
   - title: WiSC Events
     actions:
@@ -33,7 +33,8 @@ sections:
     padding_bottom: none
     background_color: none
     type: hero_section
-  - blog_feed_cols: three
+  - title: HEELLOO
+    blog_feed_cols: three
     enable_cards: true
     show_recent: false
     recent_count: 13
@@ -51,7 +52,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-  - title: Don't want to miss any events?
+  - title: Don't want to miss an event?
     title_align: center
     content: Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
@@ -73,19 +74,19 @@ sections:
     background_color: secondary
     type: form_section
 seo:
-  title: WiSC Events
-  description: This is the blog page
+  title: Past Events
+  description: The collection of previous WiSC events
   extra:
     - name: 'og:type'
       value: website
       keyName: property
       type: stackbit_page_meta_extra
     - name: 'og:title'
-      value: Blog
+      value: Previous posts
       keyName: property
       type: stackbit_page_meta_extra
     - name: 'og:description'
-      value: This is the blog page
+      value: This is the author archive page
       keyName: property
       type: stackbit_page_meta_extra
     - name: 'og:image'
@@ -97,10 +98,10 @@ seo:
       value: summary_large_image
       type: stackbit_page_meta_extra
     - name: 'twitter:title'
-      value: Blog
+      value: Posts in Tutorials
       type: stackbit_page_meta_extra
     - name: 'twitter:description'
-      value: This is the blog page
+      value: This is the author archive page
       type: stackbit_page_meta_extra
     - name: 'twitter:image'
       value: images/classic/post-5.png
@@ -108,5 +109,5 @@ seo:
       type: stackbit_page_meta_extra
   type: stackbit_page_meta
 template: advanced
-stackbit_url_path: /events/
+stackbit_url_path: events/
 ---

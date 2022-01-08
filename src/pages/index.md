@@ -29,27 +29,6 @@ sections:
     padding_bottom: large
     background_color: primary
     type: hero_section
-  - title: Upcoming Events
-    actions:
-      - label: View All
-        url: /events/
-        style: primary
-        type: action
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    type: blog_feed_section
   - title: Sign up to our newsletter!
     title_align: center
     content: Subscribe to our newsletter to make sure you don't miss anything.
