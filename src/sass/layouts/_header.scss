@@ -2,7 +2,10 @@
  * Site Header
  */
 .site-header {
-	border-bottom: 1px solid $color-header-border;
+	// background-color: $color-header-border;
+	// to change background color of header
+	border-bottom: 1px solid white;
+	max-width: 100%;
 }
 
 .navbar__logo,
@@ -14,6 +17,7 @@
 	img {
 		display: block;
 		max-height: 2.22222rem;
+		
 	}
 }
 
@@ -34,11 +38,10 @@
 	width: 100%;
 }
 
-@include media-breakpoint-down(md) {
+@include media-breakpoint-down(xl) {
 	.navbar__container {
 		-webkit-backface-visibility: hidden;
 		backface-visibility: hidden;
-		background-color: $color-nav-mobile-bg;
 		bottom: 0;
 		right: -100%;
 		max-width: container-max-width(small);
@@ -92,7 +95,6 @@
 
 	.js-nav-open {
 		overflow: hidden;
-	
 		.nav-overlay {
 				opacity: 1;
 				transition: opacity .25s;

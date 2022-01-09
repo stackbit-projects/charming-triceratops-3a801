@@ -7,8 +7,8 @@
     "base_font": "serif",
     "header": {
         "title": "WiSC_Header",
-        "logo": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/f139e5062831b0de0259457c20cd7cfe/Screen_Shot_2021-10-14_at_4.19.47_PM.png",
-        "logo_alt": "DIY logo",
+        "logo": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/a982380cef0336e677e2d8eb88bc6c11/Screen_Shot_2021-10-14_at_4.19.47_PM.png",
+        "logo_alt": "WiSC LOGO",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -87,7 +87,7 @@
         "type": "header"
     },
     "footer": {
-        "logo": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/f139e5062831b0de0259457c20cd7cfe/Screen_Shot_2021-10-14_at_4.19.47_PM.png",
+        "logo": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/a982380cef0336e677e2d8eb88bc6c11/Screen_Shot_2021-10-14_at_4.19.47_PM.png",
         "logo_alt": "WiSC Logo",
         "has_primary_nav": true,
         "primary_nav_title": "WiSC",
@@ -215,5 +215,5 @@
         "type": "footer"
     },
     "domain": "https://charming-triceratops-3a801.netlify.app",
-    "favicon": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/f139e5062831b0de0259457c20cd7cfe/Screen_Shot_2021-10-14_at_4.19.47_PM.png"
+    "favicon": "https://images.ctfassets.net/2582oijtbxyu/4hLfEHOKffd3A9iImvBAEB/a982380cef0336e677e2d8eb88bc6c11/Screen_Shot_2021-10-14_at_4.19.47_PM.png"
 }

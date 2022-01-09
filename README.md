@@ -33,10 +33,6 @@ This is a [Gatsby](https://gatsbyjs.com) site using [Contentful](https://www.con
 
         bash build.sh
 
-1. If you are experiencing problems with the IDs check you can check if the contentful space id exists by writing the following command:
-
-        bash build.sh
-
 1.  Open [http://localhost:8000/](http://localhost:8000/) in the browser
 
 ## Editing Content
@@ -44,4 +40,4 @@ To edit the site (add/remove/update and components) please go to contentful whic
 
 To deploy previous versions of the site or manage any part of the deployment process please go to netlify
 
-All the credentials to access these platforms are on the the WiSC drive
+#### All the credentials to access these platforms are on the the WiSC drive

@@ -1,6 +1,6 @@
 {
     "cmsType": "contentful",
-    "projectTitle": "Stackbit DIY Theme",
+    "projectTitle": "WiSC Website",
     "staticDir": "static",
     "pagesDir": "src/pages",
     "dataDir": "src/data",
