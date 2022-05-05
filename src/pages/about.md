@@ -28,6 +28,14 @@ sections:
         new_window: true
         no_follow: false
         type: action
+      - label: Our Podcast
+        url: 'https://open.spotify.com/show/3pzjLJG5Tta8jpLRo0UNa0'
+        style: primary
+        has_icon: false
+        icon_position: right
+        new_window: true
+        no_follow: false
+        type: action
     align: center
     background_color: primary
     type: hero_section
@@ -160,6 +168,17 @@ sections:
   - title: We would like to thank our previous partners!
     grid_items:
       - title_align: left
+        content_align: center
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/4Jp2ggtVn5kyCyDXofrtZq/9d750520f230b71dc62e464d6d16183b/citi-logo-transparent.png
+        image_position: bottom
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+      - title_align: left
         content_align: left
         actions_align: left
         actions_width: auto
@@ -176,7 +195,7 @@ sections:
         actions_width: auto
         image: >-
           https://images.ctfassets.net/2582oijtbxyu/2DbpgPjvhv1VmCz2I0qMxI/bfa177d00849aad935f543dff94d6d62/Ceridian.png
-        image_position: top
+        image_position: bottom
         image_width: fifty
         image_align: center
         image_has_padding: false
@@ -186,13 +205,13 @@ sections:
         actions_align: left
         actions_width: auto
         image: >-
-          https://images.ctfassets.net/2582oijtbxyu/4Jp2ggtVn5kyCyDXofrtZq/7a7ead1c75fee7869d26faa1c2ed2715/citi.png
-        image_position: top
+          https://images.ctfassets.net/2582oijtbxyu/6LrGXYhst9s40GgAoFZJvE/92c03398400cf8e78bac100805918349/tesla-logo-2200x2800.png
+        image_position: bottom
         image_width: fifty
         image_align: center
         image_has_padding: false
         type: grid_item
-    grid_cols: three
+    grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
@@ -207,7 +226,7 @@ sections:
     type: grid_section
 seo:
   title: About
-  description: This is the about us page
+  description: WiSC about us page
   extra:
     - name: 'og:type'
       value: website
@@ -218,7 +237,7 @@ seo:
       keyName: property
       type: stackbit_page_meta_extra
     - name: 'og:description'
-      value: This is the about us page
+      value: WiSC about us page
       keyName: property
       type: stackbit_page_meta_extra
     - name: 'og:image'
@@ -233,7 +252,7 @@ seo:
       value: About
       type: stackbit_page_meta_extra
     - name: 'twitter:description'
-      value: This is the about us page
+      value: WiSC about us page
       type: stackbit_page_meta_extra
     - name: 'twitter:image'
       value: images/about-1.jpg

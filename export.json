@@ -9326,8 +9326,8 @@
                 ],
                 "seo": {
                     "type": "stackbit_page_meta",
-                    "title": "Stackbit DIY Theme",
-                    "description": "The preview of the DIY theme",
+                    "title": "WiSC Website",
+                    "description": "The UTM Women in Science and Computing organization website ",
                     "extra": [
                         {
                             "type": "stackbit_page_meta_extra",
@@ -9373,7 +9373,7 @@
                         {
                             "type": "stackbit_page_meta_extra",
                             "name": "twitter:description",
-                            "value": "The preview of the DIY theme",
+                            "value": "The WiSC website",
                             "stackbit_model_type": "object"
                         },
                         {

@@ -54,10 +54,11 @@ sections:
         type: grid_item
       - title: I want to partner with WiSC! What should I do?
         content: >-
-          First, take a look at our Corporate Partnership Package! When you’re
-          ready to reach out, [email us at wisc@utmsu.ca](mailto:wisc@utmsu.ca)
-          using your organization’s email, and let us know what you have in
-          mind!
+          First, take a look at our [Corporate Partnership
+          Package](https://drive.google.com/file/d/1bvAZl_fQ6eQ8uem6cJsOKCMIhdojQe7b/view?usp=sharing)!
+          When you’re ready to reach out, [email us at
+          wisc@utmsu.ca](mailto:wisc@utmsu.ca) using your organization’s email,
+          and let us know what you have in mind!
         actions:
           - label: ' link to about page'
             url: /about
@@ -78,6 +79,15 @@ sections:
           guest appearances. As a result, we host technical workshops,
           networking and recruitment events, community engagement events,
           destressors, and so much more!
+        actions:
+          - label: Check out our events!
+            url: events-initiatives/
+            style: primary
+            has_icon: false
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: Is WiSC planning on holding any in-person events?
         content: >

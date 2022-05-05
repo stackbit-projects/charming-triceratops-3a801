@@ -29,6 +29,14 @@ sections:
         new_window: true
         no_follow: false
         type: action
+      - label: Our Podcast
+        url: 'https://open.spotify.com/show/3pzjLJG5Tta8jpLRo0UNa0'
+        style: primary
+        has_icon: false
+        icon_position: right
+        new_window: true
+        no_follow: false
+        type: action
     background_color: primary
     type: hero_section
   - title: Core Team
