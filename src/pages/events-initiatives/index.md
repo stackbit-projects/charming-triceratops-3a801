@@ -34,6 +34,167 @@ sections:
     background_color: none
     type: hero_section
   - grid_items:
+      - title: The Show - Season Three
+        subtitle: 'April 29, 2022'
+        title_align: left
+        content_align: left
+        actions:
+          - label: The show - season three
+            url: events-initiatives/the_show_season_three
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/8WcNjU4zijIbrelayuxMG/ab2652dff31648231908f7d07b444703/Screen_Shot_2022-05-04_at_6.11.48_PM.png
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Cocoa and Cram
+        subtitle: 'March 31, 2022'
+        title_align: left
+        content_align: left
+        actions:
+          - label: 'cocoa and cram '
+            url: events-initiatives/cocoa_and_cram_2022
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/7BJjbpoP3XSCAD6vUum1wc/50f25d840d3e987181a0e0cb37689cf1/Screen_Shot_2022-05-04_at_6.03.27_PM.png
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: WiSC Talks with Dr Jessica Burgner-Kahrs
+        subtitle: 'March 21, 2022'
+        title_align: left
+        content_align: left
+        actions:
+          - label: wisc talks JBK
+            url: events-initiatives/wisc_talks_dr_jessica_burgner_kahrs
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/4lAOTL73vxnC6k3ujjcOkn/778c9c678a4c57f6020c903ad1127a1b/Screen_Shot_2022-05-04_at_5.51.32_PM.png
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: WiSC Writing Competition
+        subtitle: 'February 28, 2022'
+        title_align: left
+        content_align: left
+        actions:
+          - label: WiSC writing competition
+            url: events-initiatives/writing_competition
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/3eVs8tiBdD3iAp1f0plmP1/67828754e60208351a596478894d1861/Screen_Shot_2022-05-04_at_5.22.48_PM.png
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Tesla @ Society of Women Engineers
+        subtitle: 'March 3, 2022'
+        title_align: left
+        content_align: left
+        actions:
+          - label: Tesla event
+            url: events-initiatives/tesla_at_society_of_women_engineers
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/2z1bYqx0tdmicWyqmIZ8BG/f8be0e8cab7cea91a535af430c140784/Screen_Shot_2022-05-04_at_5.14.03_PM.png
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: WiSC Talks with Dr Asal Aslemand
+        subtitle: 'January 30, 2022'
+        title_align: left
+        content_align: left
+        actions:
+          - label: wisc_talks_Dr_Asal_Aslemand
+            url: events-initiatives/wisc_talks_Dr_Asal_Aslemand
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/2Kl5Na2SA0Kl09jNJHikw3/ab2567170be8e6aca998d90ab8ae7aa2/Screen_Shot_2022-05-04_at_4.50.44_PM.png
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Building your resume & Cover letter event
+        subtitle: 'January 15, 2022'
+        title_align: left
+        content_align: left
+        actions:
+          - label: Building your resume & Cover letter event
+            url: events-initiatives/resume_cover_letter_event
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/2FQHh3E4ANqeqgaXkVxBVB/23d7153eddad09e86687ac9472cfe2d7/Screen_Shot_2022-05-01_at_3.19.35_PM.png
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: 'PYJAC: Rebooted'
         subtitle: 'January 15, 2022'
         title_align: left

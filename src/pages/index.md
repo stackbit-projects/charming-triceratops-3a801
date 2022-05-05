@@ -18,8 +18,8 @@ sections:
     media_position: left
     media_width: fifty
     align: left
-    padding_top: none
-    padding_bottom: none
+    padding_top: medium
+    padding_bottom: small
     background_color: primary
     type: hero_section
   - title: Upcoming Events
@@ -56,13 +56,13 @@ sections:
     background_color: none
     type: hero_section
   - grid_items:
-      - title: 'PYJAC: Rebooted'
-        subtitle: 'January 15, 2022'
+      - title: The Show - Season Three
+        subtitle: 'April 29, 2022'
         title_align: left
         content_align: left
         actions:
-          - label: 'pyjac: rebooted'
-            url: events-initiatives/pyjac-rebooted
+          - label: The show - season three
+            url: events-initiatives/the_show_season_three
             style: primary
             has_icon: true
             icon: arrow-right
@@ -70,10 +70,10 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        actions_align: right
+        actions_align: left
         actions_width: auto
         image: >-
-          https://images.ctfassets.net/2582oijtbxyu/7clP5bPV2fEOjQRBr2TFYU/54cb81a49969ae43f578f235eb046b51/Screen_Shot_2022-01-08_at_2.26.53_AM.png
+          https://images.ctfassets.net/2582oijtbxyu/8WcNjU4zijIbrelayuxMG/ab2652dff31648231908f7d07b444703/Screen_Shot_2022-05-04_at_6.11.48_PM.png
         image_position: top
         image_width: fifty
         image_align: left

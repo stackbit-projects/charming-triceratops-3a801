@@ -131,6 +131,16 @@ sections:
           If your organisation is interested in partnering or collaborating with
           WiSC, please [__email us and get in touch with us at
           wisc@utmsu.ca__](mailto:wisc@utmsu.ca). We’d love to hear from you!
+        actions:
+          - label: Check out our corporate partnership package
+            url: >-
+              https://drive.google.com/file/d/1bvAZl_fQ6eQ8uem6cJsOKCMIhdojQe7b/view?usp=sharing
+            style: primary
+            has_icon: false
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
         image: >-
           https://images.ctfassets.net/2582oijtbxyu/2Ec6VyxHD8myJMCQ9Yk4YO/106b60694c6b6bf9325abe14d739a996/Screen_Shot_2021-10-15_at_2.20.07_AM.png
         media_position: left

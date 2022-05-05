@@ -34,6 +34,16 @@
                 "url": "/resources",
                 "style": "link",
                 "type": "action"
+            },
+            {
+                "label": "FAQ",
+                "url": "resources/faq",
+                "style": "link",
+                "has_icon": false,
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_secondary_nav": true,

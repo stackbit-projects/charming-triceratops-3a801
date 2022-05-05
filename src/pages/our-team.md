@@ -33,19 +33,20 @@ sections:
     type: hero_section
   - title: Core Team
     grid_items:
-      - title: Alana Hodge
-        subtitle: President (4th Year)
+      - title: Ayesha Tayyiba
+        subtitle: President
         title_align: left
         content: >-
-          I'm a computer science student with a focus on Artificial Intelligence
-          and Deep Learning! I would love for WiSC to grow even more across all
-          three UofT campuses; the more members that we can empower, the better!
+          When I'm not stressing about school, I like to read, paint, and watch
+          Netflix :). I also really enjoy experimenting with different forms of
+          art: a few months ago it was embroidery, right now it's sewing! This
+          year, I hope WiSC is able to create a tight-knit community, both
+          online and on-campus, for women-identifying students!
         content_align: left
         actions_align: left
         actions_width: auto
         image: >-
-          https://images.ctfassets.net/2582oijtbxyu/6jnvHvsBOS4WbmVxJT2YxA/d6d170fd81da0ac1cd6d84803aa52192/9.png
-        image_alt: 'Image of President '
+          https://images.ctfassets.net/2582oijtbxyu/ttzzsuqjSBHy0IStqIvp8/14e1e21d87c4658c734b66dd902ae924/12.png
         image_position: top
         image_width: fifty
         image_align: center
@@ -70,6 +71,44 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
+      - title: Celma Javier
+        subtitle: 'Vice President: Human Resources (3rd Year)'
+        title_align: left
+        content: >-
+          A fun fact about me is that I love nature and advocating for the
+          protection of our environment. One day I hope to explore the natural
+          wonders of the world! I hope we can create more opportunities for
+          people to continue to learn about STEM and their passions.
+        content_align: left
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/2hyM7vkNpec5rpKBQ9bfxA/6a4d1d9eb3edecb2e712849819b3085e/27.png
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+      - title: Dunia Stanojevic
+        subtitle: 'Vice President: Computational Sciences (3rd Year)'
+        title_align: left
+        content: >-
+          I've been swimming since I was very young, so anytime I have the
+          opportunity to go to the pool or visit the beach, you'll find me
+          there! I also love being outside and going for walks with friends! I
+          would love for WiSC to continue to have spaces where students can not
+          only work on studying together, but also bond and create meaningful
+          relationships with one another!
+        content_align: left
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/qfeiZhyIOWsNtrBy9eX0P/9c2139e9ec3ff1b328f524b5a2cb13ba/23.png
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
       - title: Eaman Tareen
         subtitle: 'Vice President: General Science (3rd Year)'
         title_align: left
@@ -83,43 +122,6 @@ sections:
         actions_width: auto
         image: >-
           https://images.ctfassets.net/2582oijtbxyu/4jWXrqXxu5cvdRrcVbEyPJ/2152cddc9a48b6c288cd9992bb5b1727/13.png
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-      - title: Ayesha Tayyiba
-        subtitle: 'Vice President: Computational Sciences (3rd Year)'
-        title_align: left
-        content: >-
-          When I'm not stressing about school, I like to read, paint, and watch
-          Netflix :). I also really enjoy experimenting with different forms of
-          art: a few months ago it was embroidery, right now it's sewing! This
-          year, I hope WiSC is able to create a tight-knit community, both
-          online and on-campus, for women-identifying students!
-        content_align: left
-        actions_align: left
-        actions_width: auto
-        image: >-
-          https://images.ctfassets.net/2582oijtbxyu/ttzzsuqjSBHy0IStqIvp8/14e1e21d87c4658c734b66dd902ae924/12.png
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-      - title: "Mahnoor\tNaeem"
-        subtitle: 'Vice President: Human Resources (4th Year)'
-        title_align: left
-        content: >-
-          I spend most of my time watching tv, reading and baking. I enjoy
-          travelling, going to cafes and shopping. One vision I have for WiSC is
-          to do some kind of charity and/or fundraising for the community and to
-          work with an organization that helps empower women.
-        content_align: left
-        actions_align: left
-        actions_width: auto
-        image: >-
-          https://images.ctfassets.net/2582oijtbxyu/6bQSfwZMSNTeOuilNXsMaB/7650de8819565a33972d2381ad343b10/11.png
         image_position: top
         image_width: fifty
         image_align: center
@@ -300,7 +302,7 @@ sections:
   - title: Sciences Team
     grid_items:
       - title: Celma Javier
-        subtitle: 'Sciences: Director of Events (2nd Year)'
+        subtitle: 'Vice President: Human Resources (3rd Year)'
         title_align: left
         content: >-
           A fun fact about me is that I love nature and advocating for the
@@ -406,7 +408,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Dunia Stanojevic
-        subtitle: Director of External Relations (3rd Year)
+        subtitle: 'Vice President: Computational Sciences (3rd Year)'
         title_align: left
         content: >-
           I've been swimming since I was very young, so anytime I have the
@@ -572,6 +574,137 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+  - title: WiSC 2021-2022 Cohort
+    grid_items:
+      - title: Core Team
+        title_align: left
+        content: |-
+          __Alana Hodge__ - President
+
+          __Mishaal Farooq__ - Vice President of Internal Affairs⁣
+
+          __Ayesha Tayyiba__ - Vice President of Computational Sciences 
+
+          __Eaman Tareen__ - Vice President of General Sciences 
+
+          __Mahnoor Naeem__ - Vice President of Human Resources
+        content_align: left
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Mentorship Program Team
+        title_align: left
+        content: |-
+          __Verina Tanious__ - Mentorship Program Lead
+
+          __Kitty Yu__ - Director of Mentor Relations
+
+          __Maryam Qayyum__ - Director of Student Mentor Relations
+
+          __Virginia Chiu__ - Director of Mentee Relations
+        content_align: left
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Marketing & Management Team
+        title_align: left
+        content: |
+          __Manjoy Malhotra__ - Director of Marketing
+
+          __Ayla Sitwat__ - Director of Social Media
+
+          __Areta Kabir__ - Director of Community Engagement
+
+          __Joyce Wong__ - Director of Graphic Design
+
+          __Laura Maldonado__ - Website Designer & Manager
+
+          __Riddhi Gopinath__ - Director of Finance
+        content_align: left
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Sciences Team
+        title_align: left
+        content: |-
+          __Celma Javier__ - Director of Events
+
+          __Anitha Sampathu__ - Director of Events
+
+          __Sri Kirthana Aila__ - Director of External Relations
+        content_align: left
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Computational Sciences Team
+        title_align: left
+        content: |-
+          __Nada Al-Towaity__ - Director of Events
+
+          __Sarah Mansoor__ - Director of Events
+
+          __Dunia Stanojevic__ - Director of External Relations
+        content_align: left
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Associates Team
+        title_align: left
+        content: |
+          __Anh Nguyen__ - Associates Director
+
+          __Aatma Patel__ - First Year Associate First Semester
+
+          __Garima Panwar__ - First Year Associate First Semester
+
+          __Camila Torres__ - First Year Associate Second Semester
+
+          __Laiba Khan__ - First Year Associate Second Semester
+
+          __Zarifa Huseynli__ - First Year Associate Second Semester
+
+          __Helia Seyedmazhari__ - First Year Associate Second Semester
+        content_align: left
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+    grid_cols: two
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - title: WiSC 2020-2021 Cohort
     grid_items:
       - title: Core Team
