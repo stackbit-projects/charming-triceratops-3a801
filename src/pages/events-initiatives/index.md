@@ -42,6 +42,29 @@ sections:
     background_color: none
     type: hero_section
   - grid_items:
+      - title: WiSC Tabling 2022
+        subtitle: 'September 15, 2022'
+        title_align: left
+        content_align: left
+        actions:
+          - label: tabling2022
+            url: events-initiatives/Tabling2022
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image: >-
+          https://images.ctfassets.net/2582oijtbxyu/1OvIbTUnuGVl4m9ztmGngr/2d12b00cc799af3270f7ef518b970805/C890C466-F30A-4A7D-860E-745BE81EDD69_4_5005_c.jpeg
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: The Show - Season Three
         subtitle: 'April 29, 2022'
         title_align: left
